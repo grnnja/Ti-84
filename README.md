@@ -28,3 +28,15 @@ put function in terms of X and Y into Y1, then run EULRMTD
 ## POLYRTHM
 * Makes any polyrhythm
 * Rhythms are shown on each side of the screen
+
+## MATHGME
+* Timed game where you solve as many math problems in a set amount of time as possible
+* Types of math problems include
+  * Addition
+  * Subtraction
+  * Multiplication
+  * Powers
+  * Trignometry
+  * Logic
+* Runs are seeded so other people can play the same questions
+* Program is written so that adding types of problems is easy
