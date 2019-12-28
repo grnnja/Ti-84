@@ -23,20 +23,23 @@ put function in terms of X and Y into Y1, then run EULRMTD
 
 ## PH
 * Calculates the pH of weak acids using the PKa and the molarity
-* We were doing a lot of these problems in class it it was tedious to manually enter them into my calculator
+* We were doing a lot of these problems in class and it was tedious to manually enter them into my calculator
 
 ## POLYRTHM
 * Makes any polyrhythm
 * Rhythms are shown on each side of the screen
 
 ## MATHGME
-* Timed game where you solve as many math problems in a set amount of time as possible
+* Timed game where the goal is to correctly solve as many math problems as possible in a set amount of time
 * Types of math problems include
   * Addition
   * Subtraction
   * Multiplication
-  * Powers
+  * Exponents
   * Trignometry
   * Logic
 * Runs are seeded so other people can play the same questions
 * Program is written so that adding types of problems is easy
+* Scoring
+  * 1 point awarded for a right answer
+  * 0.25 points deducted for a wrong answer
